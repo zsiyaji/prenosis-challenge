@@ -1,0 +1,27 @@
+{
+  "data_points": [
+    {
+      "subject_id": "1001",
+      "data_point_type": "race",
+      "value": "caucasian"
+    },
+    {
+      "subject_id": "1002",
+      "data_point_type": "race",
+      "value": "black"
+    },
+    {
+      "subject_id": "1001",
+      "data_point_type": "body_weight",
+      "value": "170",
+      "units": "lb"
+    },
+    {
+      "subject_id": "1002",
+      "data_point_type": "body_weight",
+      "value": "2400",
+      "units": "oz"
+    }     
+  ]
+}
+
